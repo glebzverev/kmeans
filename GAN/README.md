@@ -1,1 +1,0 @@
-GAN for generating sneakers
